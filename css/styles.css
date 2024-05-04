@@ -13,6 +13,10 @@
     height: 200px;
 }
 
+.gallery-image:hover {
+    transform: scale(1.04);
+}
+
 .modal-image {
     width: 1112px;
     height: 640px;
